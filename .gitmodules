@@ -1,0 +1,3 @@
+[submodule "Mindflow-android"]
+	path = Mindflow-android
+	url = git@github.com:ProMix0/Mindflow-android.git
